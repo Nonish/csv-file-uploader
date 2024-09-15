@@ -13,9 +13,9 @@ CSV Upload File which built using Next.js (React.js and Node.js), Ejs , CSS (as 
 
 ## Packages Install
 
-- multer <br/>
-- csv-parser <br/ >
-- mysql12 <br/ >
+- multer 
+- csv-parser
+- mysql12 
   <br/>
 
 ## Database
