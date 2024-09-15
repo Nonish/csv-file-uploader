@@ -54,7 +54,7 @@ DB_PASS=admin
 
 ## Home page
 
-![home](.//assets//ss//home-page.png)
+![home](./assets/ss/home-page.png)
 
 ## Upload page
 
@@ -63,5 +63,7 @@ DB_PASS=admin
 ## Users page
 
 ![users](./assets/ss/users-page.png)
+
+
 
 ------------\*\*\*-------------
