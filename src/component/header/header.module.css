@@ -1,0 +1,24 @@
+.header {
+   width: 100%;
+   background-color: #ccc;
+   position: sticky;
+   top: 0;
+   padding-inline: 16px;
+}
+
+.navbar {
+   display: flex;
+   justify-content: flex-start;
+}
+
+.link,
+.active {
+   font-size: 20px;
+   padding: 16px;
+   text-decoration: underline;
+   color: #000;
+}
+
+.active {
+   background-color: #ffc0cb;
+}

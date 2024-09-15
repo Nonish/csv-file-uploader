@@ -1,0 +1,41 @@
+.zone {
+   margin: auto;
+   width: 50%;
+   border: 2px dashed;
+   border-radius: 20px;
+   padding: 20px;
+   text-align: center;
+   cursor: pointer;
+   transition: border-color 0.3s;
+   height: 300px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.drop {
+   border-color: #ccc;
+}
+
+.dragging {
+   border-color: #007bff;
+}
+
+.wrapper {
+   display: flex;
+   align-items: center;
+   gap: 10px;
+}
+
+.close {
+   width: 20px;
+   height: 20px;
+   border: 1px solid #ff0000;
+   border-radius: 50%;
+   color: #ff0000;
+}
+
+.filename {
+   text-decoration: underline;
+   font-size: x-large;
+}

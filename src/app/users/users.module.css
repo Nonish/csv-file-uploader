@@ -1,0 +1,15 @@
+.tableWrapper {
+   padding: 20px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.table {
+   width: 80%;
+   border-collapse: collapse;
+}
+
+.nodata {
+   margin: 10%;
+}
